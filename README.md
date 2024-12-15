@@ -141,3 +141,76 @@
 </table>
 </body> 
 </html>
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title>TFB</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="style.css"> 
+</head>
+<body> 
+
+<table>
+	<tr>
+		<td colspan="2">
+			<div class="navigacijskiDiv">
+			<ul>
+				<li><a href="pocetna.html">POČETNA</a></li>
+				<li><a href="prvizadatak.html">PRVI ZADATAK</a></li>
+				<li><a href="imeiprezime.html">IME I PREZIME STUDENTA</a></li>
+			</ul>
+			</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td colspan="2">
+			<h1 class="naslov">NASLOV ČLANKA</h1>
+			<a class="autor" href="sajra.html"> Autor članka - link </a>
+			<br>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="sadrzaj" width="25%">
+		<center><b>Sadržaj</b></center>
+		<ol>
+		<li>Overview
+			<ol>
+			<li>Motivation</li>
+			<li>Motivation</li>
+			<li>Motivation</li>
+			<li>Motivation</li>
+			</ol></li>
+		<li>Versions of Xhtml</li>
+			<ol>
+			<li>XHTML 1.0</li>
+			<li>XHTML 1.0</li>
+			<li>XHTML 1.0</li>
+			<li>XHTML 1.0</li>
+				<ol>
+				<li>Xhtml-print</li>
+				</ol>
+			</ol>
+		</ol>
+		</td>
+
+
+		<td class="clanak" width="75%">
+			<span class="pojam">XHTML (Extensible HyperText Markup Language)</span>
+			is a family of XML markup languages that mirror or extend versions
+			of the widely used Hypertext Markup Language (HTML), the language in which web pages are written. 
+		</td>
+	</tr>
+	
+
+</table>
+</body> 
+</html>
