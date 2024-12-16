@@ -151,7 +151,7 @@
 
 <html>
 <head>
-<title>TFB</title>
+<title>ČLANAK</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" type="text/css" href="style.css"> 
 </head>
@@ -212,5 +212,113 @@
 	
 
 </table>
+</body> 
+</html>
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title>INFOSISTEM</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body> 
+
+<table width="100%" cellpadding="2" border="0">
+<tr>
+<td colspan="2" bgcolor="black" align="center">
+<font face="Arial,Tahoma,Verdana" color="white" size="2">
+<b>(Internet programiranje) I KOLOKVIJ - I ZADATAK - GRUPA G1</b>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center" bgcolor="#79C9D0">
+<a href = "https://tfb.ba/repozitorij/1/slike/galerija/hol/s11_max.jpg"><img src="slike/korisnik.png" title="slika" border="1" height="200" width="200"></a> <br>
+<a href="www.tfb.ba/clanak.jsf?cid=144" target="_blank"><b><i>DODJELA DIPLOMA</i></b></a>
+</td>
+</tr>
+
+<tr>
+<td width="75%">
+<table>
+<tr>
+<td width="35%" align="left">
+<img src="slike/korisnik.png" width="200" height="200">
+</td>
+
+<td width="65%" align="center">
+<table>
+<form name="korisnikForma" method="POST" action="mailto:amirkurtagic17@gmail.com">
+<tr>
+<td colspan="2">
+<p><b><i><u>Registracija korisnika</u></i></b></p>
+</td>
+</tr>
+<tr>
+<td>Ime:</td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td>Prezime:</td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td>Tip korisnika:</td>
+<td>
+<input type="radio" name="x" value="administrator">Administrator <br>
+<input type="radio" name="x" value="moderator">Moderator <br>
+<input type="radio" name="x" value="ObicniKorisnik">Obični korisnik <br>
+</td>
+</tr>
+<tr>
+<td>
+<input type="submit" value="POŠALJI">
+</td>
+<td>
+<input type="reset" value="PONIŠTI">
+</td>
+</tr>
+</table>
+</form>
+</td>
+</tr>
+</table>
+</td>
+
+<td width="25%" valign="top" bgcolor="#79C9D0">
+<p><b>Fakulteti:</b></p>
+<ol>
+<li>Tehnički fakultet</li>
+<li>Pravni fakultet</li>
+<li>Pedagoški fakultet</li>
+<li>Ekonomski fakultet</li>
+<li>Biotehnički fakultet</li>
+<li>Fakultet zdravstvenih studija</li>
+<li>Islamski pedagoški fakultet</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td colspan="2" height="5px" bgcolor="#BBFFFF">
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" bgcolor="#79C9D0">
+<b><i>Amir Kurtagić, 1027, 7/1/20 &copy;</i></b>
+</td>
+</tr>
+<tr>
+<td colspan="2" height="5px" bgcolor="#BBFFFF">
+</td>
+</tr>
+</table>
+
 </body> 
 </html>
