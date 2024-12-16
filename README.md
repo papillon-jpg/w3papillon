@@ -322,3 +322,262 @@
 
 </body> 
 </html>
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pocetna</title>
+    <link rel="stylesheet" href="CSS_stil.css">
+</head>
+<body>
+  <div class="meni">
+	<ul>
+		<li style="background-color:#4CAF50"><a href="zadatak.html">Pocetna</a></li>
+		<li><a href="galerija.html">Galerija</a></li>
+		<li><a href="registracija.html">Registracija</a></li>
+		<li><a href="mailto:tfb@unbi.ba">Kontakt</a></li>
+	</ul>
+	</div>
+<center>
+	<div class="tijelo">
+		<div class="pocetnaslika"></div>
+		<div class="container" id="container">
+		<h3>Dobrodosli na web stranicu Auto salona</h3>
+		<p>		AS d.o.o. bavi se uvozom i prodajom rabljenih vozila iz Njemačke.
+                Sva vozila posjeduju certifikat o provedenoj tehničkoj ispravnosti (TÜV).
+                Pri kupovini vozila u Auto salonu dobivate garanciju 6 mjeseci na motor i mjenjač,
+                te dodatnu garanciju na pređena vozila i kilometre.</p><br/>
+				AS d.o.o. posjeduje četiri poslovnice:<br/>
+				<ul>
+				<li>Poslovnica u Bihaću</li>
+                <li>Poslovnica u Sarajevu</li>
+                <li>Poslovnica u Mostaru</li>
+                <li>Poslovnica u Banjoj Luci</li></ul>
+		</div>
+		</div>
+	</center>	
+	<footer>
+		<div class="signin">
+			<p>Ime i prezime studenta, Br. indexa</p>
+		</div>
+	</footer>
+</body>
+</html>
+
+/////////////////////////////////////////////////////////////////////////////////////////////7
+
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galerija</title>
+    <link rel="stylesheet" href="CSS_stil.css">
+</head>
+<body>
+  <div class="meni">
+	<ul>
+		<li style="background-color:#4CAF50"><a href="zadatak.html">Pocetna</a></li>
+		<li><a href="galerija.html">Galerija</a></li>
+		<li><a href="registracija.html">Registracija</a></li>
+		<li><a href="mailto:tfb@unbi.ba">Kontakt</a></li>
+	</ul>
+	</div>
+<center>
+	<div class="tijelo" style="background-color:white">
+		<h2 style="color: #4caf50">Ponuda vozila</h2>
+		
+		<div class="container" align="center">
+		<table>
+		<tr>
+		<td><img src="./galerija/Slika1.jpg" title="Vozilo 1"></td>
+		<td><img src="./galerija/Slika2.jpg" title="Vozilo 2"></td>
+		<td><img src="./galerija/Slika3.jpg" title="Vozilo 3"></td>
+		<td><img src="./galerija/Slika4.jpg" title="Vozilo 4"></td>
+		</tr>
+		
+		<tr>
+		<td><img src="./galerija/Slika5.jpg" title="Vozilo 5"></td>
+		<td><img src="./galerija/Slika6.jpg" title="Vozilo 6"></td>
+		<td><img src="./galerija/Slika7.jpg" title="Vozilo 7"></td>
+		<td><img src="./galerija/Slika8.jpg" title="Vozilo 8"></td>
+		</tr>
+		
+		<tr>
+		<td><img src="./galerija/Slika9.jpg" title="Vozilo 9"></td>
+		<td><img src="./galerija/Slika10.jpg" title="Vozilo 10"></td>
+		<td><img src="./galerija/Slika11.jpg" title="Vozilo 11"></td>
+		<td><img src="./galerija/Slika12.jpg" title="Vozilo 12"></td>
+		</tr>
+		</table>
+		</div>
+		</div>
+		</center>
+	<footer>
+		<div class="signin">
+			<p>Ime i prezime studenta, Br. indexa</p>
+		</div>
+	</footer>
+</body>
+</html>
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////77
+
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registracija</title>
+    <link rel="stylesheet" href="CSS_stil.css">
+</head>
+<body>
+  <div class="meni">
+	<ul>
+		<li style="background-color:#4CAF50"><a href="zadatak.html">Pocetna</a></li>
+		<li><a href="galerija.html">Galerija</a></li>
+		<li><a href="registracija.html">Registracija</a></li>
+		<li><a href="mailto:tfb@unbi.ba">Kontakt</a></li>
+	</ul>
+	</div>
+<center>
+	<div class="tijelo">
+		<div class="pocetnaslika"></div>
+		<div class="container" id="registracija">
+			<h2>Registrujte se</h2>
+			<p>Molimo Vas popunite sva polja prilikom registracije</p>
+			<hr>
+			<form>
+			<label><strong>Email</strong></label>
+			<input type="text" name="email" placeholder="Unesite mail adresu">
+			
+			<label><strong>Lozinka</strong></label>
+			<input type="password" name="password" placeholder="Unesite lozinku">
+			
+			<label><strong>Ponovite lozinku</strong></label>
+			<input type="password" name="password" placeholder="Ponovite lozinku"><br/>
+			
+			<p>Registracijom se slažete sa našim <a href="specifikacija_IK.pdf">USLOVIMA.</a></p>
+			<hr>
+			
+			<button type="submit" class="registerbtn">Registracija</button>
+			</form>
+		</div>
+		</div>
+	</center>	
+	<footer>
+		<div class="signin">
+			<p>Ime i prezime studenta, Br. indexa</p>
+		</div>
+	</footer>
+</body>
+</html>
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+body{
+	background-color: #f0f0f2;
+	margin: 0px;
+	font-family: "Open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.container{
+	background-color: white;
+	padding: 16px;
+}
+#container{
+	padding:5% 25%;
+	text-align:justify;
+}
+input[type=text], input[type=password]{
+	width: 97%;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display:inline-block;
+	border: none;
+	background-color: #f1f1f1;
+}
+input[type=text]:focus, input[type=password]:focus{
+	background-color: #ddd;
+	outline: none;
+}
+hr{
+	border: 1px solid #f1f1f1;
+	margin-bottom: 25px;
+}
+.registerbtn{
+	background-color: #4CAF50;
+	color: white;
+	padding: 16px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+	opacity: 0.9;
+}
+.registerbtn:hover{
+	opacity: 1;
+}
+#registracija{
+	padding: 5%;
+	text-align: left;
+}
+a{
+	color: dodgerblue;
+}
+.signin{
+	background-color: #f1f1f1;
+	text-align: center;
+}
+.divbody{
+	width: 600px;
+	margin: auto;
+	padding: 50px;
+	background-color: #fff;
+	border-radius: 0;
+}
+.meni ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+.meni li{
+	float: left;
+}
+.meni li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.meni li a:hover:not(.active){
+	background-color: #111;
+}
+.active{
+	background-color: #4CAF50;
+}
+.meni{
+	width: 100%;
+	justify-content: center;
+}
+.tijelo{
+	width: 1200px;
+	justify-content: center;
+	padding-top:0;
+}
+.pocetnaslika{
+	background-image: url("./files/pocetna.jpg");
+	width: 1200px;
+	height: 500px;
+}
+.container img{
+	width:200px;
+}
